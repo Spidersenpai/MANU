@@ -9,7 +9,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from pair or scan qr.",
             "required": true,
-            "value": "put session id here"
+            "value": "Manu-MD&IKFQUKhK#CaTVgrRfz67cWfTZmb1Uxd-mTdbAYFJIpMt6dSzBvUA"
         },
         "GITHUB_USERNAME": {
             "description": "Put your github usearname here.",
