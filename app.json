@@ -1,4 +1,4 @@
-{
+
  "name": "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
   "description": "Javascript WhatsApp bot made by Manul Official",
   "logo": "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
@@ -7,14 +7,14 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from pair or scan qr.",
+            "description": "Manu-MD&NDki1bgC#Ummv3fR6m8FeRtDYGoRhs-9zXwd2CeibrJROBPvC-gA",
             "required": true,
-            "value": "Manu-MD&IKFQUKhK#CaTVgrRfz67cWfTZmb1Uxd-mTdbAYFJIpMt6dSzBvUA"
+            "value": ""
         },
         "GITHUB_USERNAME": {
             "description": "Put your github usearname here.",
             "required": true,
-             "value": "put your usearname"
+             "value": "spida"
         },
         "GITHUB_AUTH_TOKEN": {
             "description": "Put your github auth token here.",
